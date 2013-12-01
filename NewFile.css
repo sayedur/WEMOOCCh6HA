@@ -1,4 +1,3 @@
-@CHARSET "UTF-8";
 body{
 	font-family:Wellfleet;
 }
@@ -6,16 +5,15 @@ table{
 	margin-left:auto;
 	margin-right:auto;
  	border-collapse:collapse; 
- 	background-color:rgba(179, 229, 238, 0.13);
+ 	background-color:#808080;
 }
 #title{
 	text-align:center;
-	background:rgba(124,129,199,0.33);
+	background:#8CD197;
 	padding:10px;
 	width:500px;
 	margin-left:auto;
 	margin-right:auto;
-	box-shadow:4px 4px 6px grey;
 }
 td{
 	padding: 3px 5px;
